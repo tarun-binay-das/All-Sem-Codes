@@ -13,5 +13,5 @@ int main()
   kel = cel + 273.15;
   printf("\nKelvin value is: %f", kel);
 
-  return 0;
+  return 10;
 }
